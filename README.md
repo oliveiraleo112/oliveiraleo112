@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Leonardo Oliveira
 
-<!--
-**oliveiraleo112/oliveiraleo112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Desenvolvedor Full Stack | TypeScript & JavaScript Expert
 
-Here are some ideas to get you started:
+### 💻 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apaixonado por tecnologia e inovação, especializado em criar soluções eficientes e escaláveis. Com foco em desenvolvimento web moderno, busco sempre aplicar as melhores práticas e tecnologias mais recentes do mercado.
+
+### 🛠️ Tecnologias & Ferramentas
+
+**Frontend:**
+- ⚛️ React.js / Next.js
+- 📘 TypeScript
+- 🎨 HTML5, CSS3, Tailwind CSS
+- 🔄 Redux, Context API
+
+**Backend:**
+- 🟢 Node.js
+- ⚡ Express.js
+- 🗄️ MongoDB, PostgreSQL
+- 🔐 JWT, OAuth
+
+**Ferramentas:**
+- 🔧 Git & GitHub
+- 🐳 Docker
+- ☁️ Vercel, Netlify
+- 📊 Postman, Insomnia
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliveiraleo112&show_icons=true&theme=radical)
+
+### 🔥 Projetos em Destaque
+
+🔹 **Lead Analyzer** - Sistema de análise de leads
+🔹 **Leadiso** - Plataforma de gestão de leads
+
+### 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-oliveira)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/oliveiraleo112)
+
+### 💡 Sempre aberto a:
+
+✨ Novos projetos e colaborações
+🤝 Oportunidades de networking
+📚 Compartilhar conhecimento
+🎯 Desafios que façam a diferença
+
+---
+
+⭐️ **"Code is like humor. When you have to explain it, it's bad." – Cory House**
